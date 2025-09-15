@@ -51,5 +51,5 @@ Here are some of the key visualizations created from the dataset, along with the
 
 ## 💻 Code and Files
 
-* **Jupyter Notebook (`.ipynb`):** Contains all the Python code used for data loading, processing, and visualization.
+* **Python File (`.py`):** Contains all the Python code used for data loading, processing, and visualization.
 * **Dataset (`.csv`):** The raw data file used for this analysis.
